@@ -1,4 +1,4 @@
-# text_to_speech_using_python
+# Text to speech using python
 A simple text to speech converter in python.
 ### Required packages
 tkinter, os, gtts.
